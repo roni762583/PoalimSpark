@@ -1,2 +1,6 @@
 # PoalimSpark
-Preliminary code for Bank HaPoalim interview test
+Code for Bank HaPoalim interview test
+
+bp.py has python spark solutions
+
+additional files: output, data, ...
